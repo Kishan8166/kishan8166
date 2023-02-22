@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **kishankumar8166@gmail.com**
 
+- 📄 Know about my experiences [https://kishan8166.github.io/CV/](https://kishan8166.github.io/CV/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kishank8166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kishank8166" height="30" width="40" /></a>
